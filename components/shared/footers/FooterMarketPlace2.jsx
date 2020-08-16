@@ -45,7 +45,7 @@ const FooterMarketPlace2 = () => (
                 </div>
             </div>
             <FooterWidgets />
-            <FooterLinks />
+            {/* <FooterLinks /> */}
             <FooterCopyright />
         </div>
     </footer>
